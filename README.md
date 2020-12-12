@@ -12,7 +12,6 @@
 </table>
 </center>
 
-
 <!--
 **NayDev/NayDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,5 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- [![Linkedin Badge](https://img.shields.io/badge/-Nayara Suelen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayara-suelen-382420137/)](https://www.linkedin.com/in/nayara-suelen-382420137/) 
 
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Nayara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayara-suelen-382420137/)](https://www.linkedin.com/in/nayara-suelen-382420137/) 
