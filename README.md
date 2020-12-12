@@ -4,15 +4,17 @@
 <h1>Olá, sou a Nayara Suelen</h1>
 <p>Uma estudante de 26 anos e apaixonada por tecnologia. Adoro aprender e contribuir de todas as formas possíveis. Sou generosa, colaborativa e leal. O que mais me motiva é provocar transformação positiva, fazer parte de algo maior e superar desafios, para impactar as pessoas em prol de um mundo mais justo e evoluído.</p>
 
+
 <center>
-  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NayDev&theme=omni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayDev&hide=html&layout=compact&theme=omni" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=NayDev&theme=omni"/></td>
+    </tr>   
+</table>
+</center>  
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NayDev&theme=omni&show_icons=true)
 
-
-</center>
 <!--
 **NayDev/NayDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
