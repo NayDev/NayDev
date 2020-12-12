@@ -8,8 +8,8 @@
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayDev&hide=html&layout=compact&theme=omni" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=NayDev&theme=omni"/></td>
+        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayDev&hide=html&layout=compact&theme=omni" /></td>
+        <td><img width="475px" align="left" src="https://github-readme-stats.vercel.app/api?username=NayDev&theme=omni"/></td>
     </tr>   
 </table>
 </center>  
