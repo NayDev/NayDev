@@ -6,8 +6,8 @@
 <center>
 <table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayDev&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=NayDev&theme=buefy"/></td>
+        <td><img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayDev&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="395px" align="left" src="https://github-readme-stats.vercel.app/api?username=NayDev&theme=buefy"/></td>
     </tr>   
 </table>
 </center>
